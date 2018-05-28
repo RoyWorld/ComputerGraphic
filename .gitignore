@@ -1,0 +1,12 @@
+.idea/
+build/
+.gradle/
+logs/
+*.iml
+/classes
+/exercise-teacher-web-war/src/main/webapp/cache
+/exercise-teacher-web-war/out
+/exercise-teacher-service/out
+/exercise-teacher-domain/out
+/exercise-teacher-common/out
+/exercise-teacher-api/out
