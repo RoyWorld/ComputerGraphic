@@ -1,4 +1,4 @@
-package com.graph;
+package com.graphic;
 
 import org.junit.Test;
 

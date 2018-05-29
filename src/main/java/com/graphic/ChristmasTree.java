@@ -1,4 +1,4 @@
-package com.graph;
+package com.graphic;
 
 import java.util.Random;
 
@@ -75,6 +75,6 @@ public class ChristmasTree {
 
     public static void main(String[] args) {
         ChristmasTree christmasTree = new ChristmasTree();
-        christmasTree.test(5, 1.1F);
+        christmasTree.test(6, 1.2F);
     }
 }
